@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\zero_\Desktop\2024-1\POO\test\test.cpp(15,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  test.vcxproj -> C:\Users\zero_\Desktop\2024-1\POO\test\x64\Debug\test.exe
